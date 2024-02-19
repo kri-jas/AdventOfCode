@@ -1,0 +1,16 @@
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.exe
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.deps.json
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.runtimeconfig.json
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.runtimeconfig.dev.json
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.dll
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\ref\Day5c.dll
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\bin\Debug\net5.0\Day5c.pdb
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.csproj.AssemblyReference.cache
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.AssemblyInfoInputs.cache
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.AssemblyInfo.cs
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.csproj.CoreCompileInputs.cache
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.dll
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\ref\Day5c.dll
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.pdb
+C:\Users\kristinaj\Documents\AdventOfCode2022\Day1\Day1\Day5c\obj\Debug\net5.0\Day5c.genruntimeconfig.cache
